@@ -1,0 +1,6 @@
+C:\Users\Administrador\AppData\Local\Temporary Projects\MVA-Training\bin\Debug\MVA-Training.exe.config
+C:\Users\Administrador\AppData\Local\Temporary Projects\MVA-Training\obj\Debug\MVA-Training.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\AppData\Local\Temporary Projects\MVA-Training\bin\Debug\MVA-Training.exe
+C:\Users\Administrador\AppData\Local\Temporary Projects\MVA-Training\bin\Debug\MVA-Training.pdb
+C:\Users\Administrador\AppData\Local\Temporary Projects\MVA-Training\obj\Debug\MVA-Training.exe
+C:\Users\Administrador\AppData\Local\Temporary Projects\MVA-Training\obj\Debug\MVA-Training.pdb
